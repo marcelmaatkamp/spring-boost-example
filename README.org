@@ -103,5 +103,5 @@ Output looks something like
 [[http://localhost:8080/spring/][http://localhost:8080/spring/]]
 
 ** clojure
-[[http://localhost:8080/clojure/][http://localhost:8080/clojure/]]
-[[http://localhost:8080/clojure/echo/:greeter][http://localhost:8080/clojure/echo/:greeter]]
+ - [[http://localhost:8080/clojure/][http://localhost:8080/clojure/]]
+ - [[http://localhost:8080/clojure/echo/:greeter][http://localhost:8080/clojure/echo/:greeter]]
