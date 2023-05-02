@@ -100,7 +100,7 @@ Output looks something like
 * Endpoints
 
 ** java
-[[http://localhost:8080/spring/][http://localhost:8080/spring/]]
+ - [[http://localhost:8080/spring/][http://localhost:8080/spring/]]
 
 ** clojure
  - [[http://localhost:8080/clojure/][http://localhost:8080/clojure/]]
