@@ -96,3 +96,11 @@ Output looks something like
        vals
        (map class)))
 #+end_src
+
+# endpoints
+
+## java
+http://localhost:8080/spring/
+
+## clojure
+http://localhost:8080/clojure/
