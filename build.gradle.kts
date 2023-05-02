@@ -4,19 +4,9 @@ plugins {
     id("io.spring.dependency-management") version "1.1.0"
 }
 
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(17))
-    }
-}
+java { toolchain { languageVersion.set(JavaLanguageVersion.of(17)) } }
 
-sourceSets {
-    main {
-        resources {
-            srcDirs += srcDir("src/main/clojure")
-        }
-    }
-}
+sourceSets { main { resources { srcDirs += srcDir("src/main/clojure") } } }
 
 repositories {
     mavenLocal()
