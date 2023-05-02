@@ -1,3 +1,6 @@
 .gradle
 build
 bin/    
+.calva/output-window/output.calva-repl
+.calva/
+
