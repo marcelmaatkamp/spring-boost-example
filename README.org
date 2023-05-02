@@ -97,10 +97,10 @@ Output looks something like
        (map class)))
 #+end_src
 
-# endpoints
+* Endpoints
 
-## java
+** java
 http://localhost:8080/spring/
 
-## clojure
+** clojure
 http://localhost:8080/clojure/
